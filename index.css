@@ -1,5 +1,8 @@
-margin{: 0px;
+body{
+    margin: 0px;
+
 }
+
 body {
     color: white;
     background-color: black;
@@ -12,6 +15,7 @@ ul {
     list-style-type: none;
     align-items: center;
     padding: 16px;
+    margin: 0px;
 }
 ul li {
     display:inline;
@@ -32,6 +36,7 @@ a {
 }
 
 .center img {
+    margin-top: 15px;
     width: 150px;
     height: 150px;
     border-radius: 50%;
